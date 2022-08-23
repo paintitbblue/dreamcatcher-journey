@@ -21,6 +21,7 @@ text-align:center;
 li {
     line-height:30px;
 color:#964000;
+    width:80%;
 }
 
 strong {
@@ -40,7 +41,7 @@ color:#883000;
 }
 
 h2 {
-    padding-top:20px;
+    padding:auto;
 color:#964000;
 }
 
